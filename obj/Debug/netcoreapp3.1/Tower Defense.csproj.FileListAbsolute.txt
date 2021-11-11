@@ -1,0 +1,5 @@
+C:\Users\mathi\OneDrive\Documents\GitHub\TowerDefenseCrossPlatform\Tower Defense\obj\Debug\netcoreapp3.1\Tower Defense.csproj.AssemblyReference.cache
+C:\Users\mathi\OneDrive\Documents\GitHub\TowerDefenseCrossPlatform\Tower Defense\obj\Debug\netcoreapp3.1\Tower Defense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\OneDrive\Documents\GitHub\TowerDefenseCrossPlatform\Tower Defense\obj\Debug\netcoreapp3.1\Tower Defense.AssemblyInfoInputs.cache
+C:\Users\mathi\OneDrive\Documents\GitHub\TowerDefenseCrossPlatform\Tower Defense\obj\Debug\netcoreapp3.1\Tower Defense.AssemblyInfo.cs
+C:\Users\mathi\OneDrive\Documents\GitHub\TowerDefenseCrossPlatform\Tower Defense\obj\Debug\netcoreapp3.1\Tower Defense.csproj.CoreCompileInputs.cache
